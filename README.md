@@ -1,4 +1,4 @@
 # information
 pro
-chamu
+informations
 
